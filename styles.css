@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+
+.line {
+  width: 0%;
+  height: 20px;
+  background-color: brown;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.fullWidth {
+  width: 100%;
+}
